@@ -2,9 +2,15 @@
 <h1 align="center">Hello 👋, I'm Hoorain Sundus</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer and Student from Pakistan. I'm constantly learning and improving my skills to create innovative and efficient web applications.</h3>
 
+<h3 align="center">Skills</h3>
+<ul>HTML</ul
+<ul>CSS</ul>
+<ul>C++</ul>
+<ul>JavaScript</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hoorain sundus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoorain sundus" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hoorain sundus](https://www.linkedin.com/in/hoorain-sundus-a3814b314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoorain sundus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
