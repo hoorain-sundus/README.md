@@ -1,9 +1,9 @@
  HoorainSundus/README.md
 <h1 align="center">Hello 👋, I'm Hoorain Sundus</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer and Student from Pakistan. I'm constantly learning and improving my skills to create innovative and efficient web applications.</h3>
+<p>Welcome to my GitHub profile! I'm a passionate Web Developer and Student from Pakistan. I'm constantly learning and improving my skills to create innovative and efficient web applications.</p>
 
 <h3 align="center">Skills</h3>
-<ul>Language: HTML,CSS,JavaScript,C++</ul>
+<p align="center">Language: HTML,CSS,JavaScript,C++.</p>
 
 
 <h3 align="left">Connect with me:</h3>
