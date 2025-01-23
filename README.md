@@ -1,10 +1,9 @@
  HoorainSundus/README.md
 <h1 align="center">Junior Developer from Pakistan 🌍💻
 </h1>
-<p>Hi there! I'm **Hoorain Sundus**, a passionate **Junior Developer** based in **Pakistan**. I specialize in crafting user-friendly web applications and have a strong interest in modern web technologies. Here's a bit about me:</p>
+<p>Hi there! I'm Hoorain Sundus, a passionate Junior Developer based in Pakistan. I specialize in crafting user-friendly web applications and have a strong interest in modern web technologies. Here's a bit about me:</p>
 
 <h3 align="center"> 🚀Skills</h3>
-```plaintext
 <p align="center">Language: HTML,CSS,JavaScript,C++.</p>
 
 
